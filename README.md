@@ -4,7 +4,7 @@
 
 - Translate a command line Ruby app to a dynamic web app
 - Use the `#write` method in a `Rack::Response` object to make a dynamic web app
-   in Rack
+  in Rack
 
 ## Creating a Dynamic Web App
 
@@ -51,7 +51,7 @@ the IDE, **localhost will not work**.
 
 When we visit the appropriate URL in our browser, we should see "Hello, World".
 Let's liven things up a bit. The amazing part of Rack and everything (like
-Rails) that is built on top of Rack is that it's *just Ruby*. If you were
+Rails) that is built on top of Rack is that it's _just Ruby_. If you were
 writing a command line slots game generator, you would first need to generate
 three numbers between 1 and 20. You could do that like this:
 
